@@ -1,0 +1,12 @@
+Program.cs
+csharp.csproj
+obj/
+bin/
+
+.DS_Store
+Thumbs.db
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
